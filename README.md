@@ -1,6 +1,6 @@
 # Hello im ducksquad
 
-![](https://komarev.com/ghpvc/?username=ducksquaddd&color=green)
+![](https://komarev.com/ghpvc/?username=ducksquaddd&color=yellow)<br>
 I am a young developer trying to get into the world of backend development using Php, Python, Nodejs.
 
 I love Linux, and im trying to become a *Professional developer* (You tell me once i get to that point.)

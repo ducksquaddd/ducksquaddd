@@ -1,7 +1,7 @@
-# Hello im ducksquad
+# Hello im Ducksquaddd
 
 ![](https://komarev.com/ghpvc/?username=ducksquaddd&color=yellow)<br>
-I am a NodeJS developer!<br> Im currently working on a hosting buisness known as Delk<br>You can find some of my open source projects on my profile and [here](https://github.com/Vedux-Development).
+I am a 13 year old NodejJS developer.<br>I tend to do web development using the Express framework and MongoDB.<br>I also have a have a coding development team I run with my friend [bqini](https://github.com/bqini) known as [Vedux](https://github.com/Vedux-Development).
 
 
 

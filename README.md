@@ -1,7 +1,7 @@
 # Hello im Ducksquaddd
 
 ![](https://komarev.com/ghpvc/?username=ducksquaddd&color=yellow)<br>
-I am a 13 year old NodejJS developer.<br>I tend to do web development using the Express framework and MongoDB.<br>I also have a have a coding development team I run with my friend [bqini](https://github.com/bqini) known as [Vedux](https://github.com/Vedux-Development).
+I am a 13 year old NodeJS developer.<br>I tend to do web development using the Express framework and MongoDB.<br>I also have a have a coding development team I run with my friend [bqini](https://github.com/bqini) known as [Vedux](https://github.com/Vedux-Development).
 
 
 

@@ -3,7 +3,7 @@
 ![](https://komarev.com/ghpvc/?username=ducksquaddd&color=yellow)<br>
 I am a 13 year old NodeJS developer.<br>I tend to do web development using the Express framework and MongoDB.<br>I also have a have a coding development team I run with my friend [bqini](https://github.com/bqini) known as [Vedux](https://github.com/Vedux-Development).
 
-<p align="left">
+<p align="right">
     <img src="https://discord.c99.nl/widget/theme-3/816058457219792966.png">
 </p> 
 

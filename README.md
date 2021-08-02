@@ -1,5 +1,3 @@
-# Hello im Ducksquaddd
-
 ![](https://komarev.com/ghpvc/?username=ducksquaddd&color=yellow)<br>
 <h1 align="center">Who am I ?</h1>
 <p align="center">Hello, I am Ducksquaddd. I am a 13 year old developer that primarly uses uses Nodejs for backend development.</p>

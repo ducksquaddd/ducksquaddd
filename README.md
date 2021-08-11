@@ -6,10 +6,6 @@
 
 <br/>  
 <br/>
-<p align="center">
-    <img src="https://discord.c99.nl/widget/theme-3/816058457219792966.png">
-</p> 
-<br/>
  <h1 align="center">Languages And Tools</h1>
 
 

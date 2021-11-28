@@ -1,36 +1,6 @@
 ![](https://komarev.com/ghpvc/?username=ducksquaddd&color=yellow)<br>
 <h1 align="center">Who am I ?</h1>
-<p align="center">Hello, I am Ducksquaddd. I am a 13 year old developer that primarly uses uses Nodejs for backend development. Im also using C# a bit.</p>
-
-<br/>  
-
-<br/>  
-<br/>
- <h1 align="center">Languages And Tools</h1>
-
-
-
- 
-<div align="center">  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /> 
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />  
-<img style="margin: 10px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" height="50" />  
-</div>
-
-<br/>
-
-
-
-<div align="center">   
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="50" />
-<img style="margin: 10px" src="https://i.imgur.com/SI1DZf3.png" alt="Discord.js" height="50" />
-</div>
-
-<br/>  
-<br/>
-
-
+<p align="center">Hello, I am a 13 year old developer that is learning C++ to get into game hacking. I orginally used Nodejs but I decided to learn some other things.</p>
 
 
 

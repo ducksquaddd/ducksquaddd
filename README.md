@@ -1,6 +1,6 @@
 ![](https://komarev.com/ghpvc/?username=ducksquaddd&color=yellow)<br>
 <h1 align="center">Who am I ?</h1>
-<p align="center">Hello, I am a 13 year old developer that is learning C++ to get into game hacking. I orginally used Nodejs but I decided to learn some other things.</p>
+<p align="center">Hello, I am a 13 year old Nodejs developer. Currently I mainly just work on discord bots for [Sifchain](https://sifchain.finance/) but i also work on some personal things. Im also learning GO with my friend EELK</p>
 
 
 

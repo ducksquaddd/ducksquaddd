@@ -1,6 +1,6 @@
 ![](https://komarev.com/ghpvc/?username=ducksquaddd&color=yellow)<br>
 <h1 align="center">Who am I ?</h1>
-<p align="center">Hello, I am a 13 year old Nodejs developer. Currently I mainly just work on discord bots for [Sifchain](https://sifchain.finance/) but i also work on some personal things. Im also learning GO with my friend EELK</p>
+<p align="center">Hello, I am a 13 year old Nodejs developer. I mainly use Javascript when ever i work on things but im also decent with languages like, C++, C#, GO, Rust, and Lua. Im currently making discord bots for [Sifchain](https://sifchain.finance).<br>My current project is Cosmasino, currently there is no website for it but you can join the discord for information https://discord.gg/EYTKtpDZ. Cosmasino is the first Discord bot you can use to gamble with crypto currencies. Currently you can gamble with the coin Rowan, but more like ATOM, and SCRT are comming soon
 
 
 

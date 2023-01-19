@@ -1,7 +1,7 @@
 ![](https://komarev.com/ghpvc/?username=ducksquaddd&color=yellow)<br>
 <h1 align="center">Who am I ?</h1>
 <p align="center">I contribute to mutiple cosmos based chains, such as Originaly Sifchain, Crescent, Gravity Bridge, and soon ELYS<br>I have tons of experience with Javascript, however i do have some experience with Golang, Lua, C#, and more recently Rust.<br>I tend to do most of my work in the Cosmos however im also getting into the ArWeave ecosystem</p>
-
+l
 
 
 

@@ -62,7 +62,7 @@
   
 ## Stats
 <div align="center"> 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ducksquaddd&layout=compact&theme=radical" alt="ducksquaddd" /></p>  
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ducksquaddd&theme=radical" alt="ducksquaddd" /></p>  
   
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ducksquaddd&show_icons=true&locale=en&theme=radical" alt="ducksquaddd" /></p>  
   

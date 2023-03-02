@@ -62,7 +62,7 @@
 <img src=https://img.shields.io/badge/gitlab-330F63.svg?&style=for-the-badge&logo=gitlab&logoColor=white alt=gitlab style="margin-bottom: 5px;" />
 </a>  
 </div>  
-
+<br/>  
   
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ducksquaddd&layout=compact&theme=radical" alt="ducksquaddd" /></p>  
   

@@ -1,4 +1,4 @@
-[](https://komarev.com/ghpvc/?username=ducksquaddd&color=blue)<br>
+![](https://komarev.com/ghpvc/?username=ducksquaddd&color=blue)<br>
 
 <p align="center">
     <a href="https://github.com/ducksquaddd/github-readme-stats"><img alt="Ducksquaddd's Github Stats" src="https://github-readme-stats.vercel.app/api?username=ducksquaddd&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=060A0CD0" /></a>

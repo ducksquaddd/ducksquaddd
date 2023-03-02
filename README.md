@@ -61,10 +61,10 @@
 <img src=https://img.shields.io/badge/gitlab-330F63.svg?&style=for-the-badge&logo=gitlab&logoColor=white alt=gitlab style="margin-bottom: 5px;" />
 </a>  
 </div>  
+<br/>
   
-
-<br/>  
-  
+## Stats
+<div align="center"> 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ducksquaddd&layout=compact&theme=radical" alt="ducksquaddd" /></p>  
   
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ducksquaddd&show_icons=true&locale=en&theme=radical" alt="ducksquaddd" /></p>  

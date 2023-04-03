@@ -4,7 +4,7 @@
   
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ducksquaddd&label=Profile%20views&color=0e75b6&style=flat" alt="ducksquaddd" /> </p>  
   
-- 🔭 I’m currently working on [OpenBlaze](openblaze)  
+- 🔭 I’m currently working on [Rareweave](https://github.com/rareweave)  
   
 - 🌱 I’m currently learning **Golang, and Cryptography**  
   

@@ -6,7 +6,7 @@
   
 - 🔭 I’m currently working on [Highlayer](https://highlayer.io)
   
-- 🌱 I’m currently learning **Golang, and Cryptography**  
+- 🌱 I’m currently learning **Cryptography**  
   
 - 👯 I validate Cosmos chains [kwak](https://github.com/kwak-labs)  
   

@@ -1,6 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Ducksquaddd</h1>  
 <h3 align="center">A passionate blockchain developer</h3>  
+<h3 align="center">View my Website https://ducksquaddd.io</h3>  
   
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ducksquaddd&label=Profile%20views&color=0e75b6&style=flat" alt="ducksquaddd" /> </p>  
   

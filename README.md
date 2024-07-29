@@ -11,7 +11,7 @@
   
 - 👯 I validate Cosmos chains [kwak](https://github.com/kwak-labs)  
   
-- 📫 Discord **Ducksquaddd#5841**  
+- 📫 Discord **Ducksquaddd**  
   
 ## Connect with me  
 <div align="center">
